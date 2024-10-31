@@ -8,7 +8,7 @@ I'm also passionate about cybersecurity, web development, and server architectur
 
 Let’s connect!
 
-<a href="https://linkedin.com/in/lucca-marchett-frozza-aa13a3289">My LinkedIn!<a/>
+<a href="https://linkedin.com/in/lucca-marchett-frozza-aa13a3289"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /><a/>
 
 ---
 
