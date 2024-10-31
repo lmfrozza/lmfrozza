@@ -8,4 +8,9 @@ I'm also passionate about cybersecurity, web development, and server architectur
 
 Let’s connect!
 
+<div>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"></link>
+  <a href="https://linkedin.com/in/lucca-marchett-frozza-aa13a3289" className="icon"><i className="fa-brands fa-linkedin"></i></a>
+</div>
+
 <a href="https://linkedin.com/in/lucca-marchett-frozza-aa13a3289">My LinkedIn!<a/>
