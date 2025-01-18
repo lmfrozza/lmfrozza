@@ -20,7 +20,7 @@ Let’s connect!
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"/>
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg](https://img.icons8.com/?size=100&id=OU2ddOKw840K&format=png&color=000000)"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=OU2ddOKw840K&format=png&color=000000"/>
 
 
 
