@@ -1,6 +1,6 @@
 # 🙂 Lucca Marchett Frozza
 
-**`Computer Science Student (HyperAutomation, WebDevolpment and .NET enjoyer)`**
+**`Computer Science Student (HyperAutomation, WebDevolpment and CyberSecurit)`**
 
 Hello! I'm a Computer Science student and currently work at Marcopolo S/A, specializing in hyperautomation using Microsoft Power Platform (PowerApps, Power Automate, and SharePoint). With hands-on experience in building RPAs (Robotic Process Automation) and DPAs (Digital Process Automation), I enjoy finding ways to streamline and automate complex workflows.
 
