@@ -12,14 +12,7 @@
 ## 🛠️ Favorite technologies
 
 - **Python** 🐍  
-- **JavaScript** ⚡  
-
-## 🔐 Interests
-
-- Cybersecurity  
-- Automation  
-- Distributed systems  
-- Tools and infrastructure  
+- **JavaScript** ⚡    
 
 ## 🧠 Fun facts
 
