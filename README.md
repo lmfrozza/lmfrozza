@@ -28,6 +28,12 @@
 - 🎨 I like doing **Linux ricing** (customizing environments)  
 - 🤖 I often think: “this could probably be automated”  
 
-## 📫 Contact
+## 🧩 LeetCode Stats
 
-Feel free to explore my projects or reach out!
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://leetcard.jacoblin.cool/lmfrozza?theme=dark&font=baloo">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://leetcard.jacoblin.cool/lmfrozza?theme=light&font=baloo">
+  <img src="https://leetcard.jacoblin.cool/lmfrozza?theme=light&font=baloo">
+</picture>
