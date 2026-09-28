@@ -12,7 +12,8 @@
 ## 🛠️ Favorite technologies
 
 - **Python** 🐍  
-- **JavaScript** ⚡    
+- **JavaScript** ⚡
+- **Golang** 🔵
 
 ## 🧠 Fun facts
 
